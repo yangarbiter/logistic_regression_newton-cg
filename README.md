@@ -10,3 +10,5 @@ reference: https://www.csie.ntu.edu.tw/~cjlin/courses/optml2015/lr.pdf
 - svmlight-loader https://github.com/mblondel/svmlight-loader
 
 
+Experiment with dataset
+http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#kdd2010 (bridge to algebra)
